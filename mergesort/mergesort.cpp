@@ -1,5 +1,11 @@
 #include<cstdio>
 
+// Note: this code is pretty wrong and does not 
+// correctly implements mergesort. It was just
+// some writing done during the divide and conquer
+// class. 
+// Will work on it when feasible.
+
 int a[] = {3, 5, 1, 6, 4, 2, 9};
 int c=0, meio;
 
